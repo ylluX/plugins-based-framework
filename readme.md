@@ -31,3 +31,7 @@
 
 **sv**, **snv**, **igv **三个插件包通过'Q2.plugins'入口组进行统一管理。
 
+## other
+
+click给出了一个基于本地plugins的方法，也可以借鉴：[click/examples/complex at main · pallets/click (github.com)](https://github.com/pallets/click/tree/main/examples/complex)
+
